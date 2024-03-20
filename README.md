@@ -1,2 +1,1 @@
-![creditcard1](https://github.com/RijiRe/Tutorial/assets/151050144/7b568297-b445-487d-afdc-3a7853d0c4b3)
-![creditcard2](https://github.com/RijiRe/Tutorial/assets/151050144/e47d01e2-9186-4fa5-9d6f-d17b73e7e52c)
+![card](https://github.com/RijiRe/Tutorial/assets/151050144/5330f79f-4abe-4f06-ae7b-25f164020ff8)
